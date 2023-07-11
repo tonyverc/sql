@@ -3,8 +3,6 @@
 
 -- Code 1.1
 -- Voici la requête qui permet de lister tous les tags
-SELECT *
-FROM tag;
 
 -- Exo 1.1
 -- Écrivez la requête qui permet de lister tous les students
